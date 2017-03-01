@@ -1370,6 +1370,15 @@ blockquote::after{
 }
 
 
+.btn-pink{
+  background: #ffb6c1;
+  background-image: -webkit-linear-gradient(top, #ffb6c1, #ff69b4);
+  background-image: -moz-linear-gradient(top, #ffb6c1, #ff69b4);
+  background-image: -ms-linear-gradient(top, #ffb6c1, #ff69b4);
+  background-image: -o-linear-gradient(top, #ffb6c1, #ff69b4);
+  background-image: linear-gradient(to bottom, #ffb6c1, #ff69b4);
+}
+
 
 
 
