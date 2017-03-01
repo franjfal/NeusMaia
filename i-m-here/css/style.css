@@ -139,3 +139,15 @@ footer p {
     margin: .5em 0;
     line-height: 1.5;
 }
+
+
+/*
+ * Remove Links fomrating.
+ */
+
+
+
+a {
+  color: inherit; /* blue colors for links too */
+  text-decoration: inherit; /* no underline */
+}
